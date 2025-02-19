@@ -1,6 +1,6 @@
 site:
   title: ThoughtSpot Documentation
-  url: https://9-0-0-cl.vercel.app
+  url: https://10-7-0-cl.vercel.app
   start_page: home::index.adoc
   keys:
     google_analytics: UA-44946579-2
@@ -9,7 +9,7 @@ content:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['9.9.0.cl']
+    branches: ['10.7.0.cl']
     start_path: cloud/
 urls:
   latest_version_segment_strategy: redirect:to
