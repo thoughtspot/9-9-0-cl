@@ -1,11 +1,9 @@
 site:
   title: ThoughtSpot Documentation
-  url: https://10-7-0-cl.vercel.app
-  start_page: home::index.adoc
+  url: https://10-8-0-cl.vercel.app
+  start_page: cloud::index.adoc
   keys:
     google_analytics: UA-44946579-2
-urls:
-  html_extension_style: indexify
 content:
   sources:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
