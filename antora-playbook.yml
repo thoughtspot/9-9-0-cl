@@ -10,7 +10,7 @@ content:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['10.6.0.cl', '10.8.0.cl']
+    branches: ['10.8.0.cl']
     start_path: cloud/
 ui:
   bundle:
