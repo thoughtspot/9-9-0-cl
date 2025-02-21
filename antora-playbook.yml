@@ -1,7 +1,7 @@
 site:
   title: ThoughtSpot Documentation
   url: https://10-8-0-cl.vercel.app
-  start_page: cloud::index.adoc
+  start_page: cloud::notes.adoc
   keys:
     google_analytics: UA-44946579-2
 urls:
