@@ -1,16 +1,16 @@
 site:
   title: ThoughtSpot Documentation
-  url: https://10-8-0-cl.vercel.app
+  url: https://10-13-0-cl-spotter.vercel.app
   keys:
     google_analytics: UA-44946579-2
-urls:
-  html_extension_style: indexify
+# urls:
+#  html_extension_style: indexify
 content:
   sources:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['10.8.0.cl']
+    branches: ['10.13.0.cl-spotter']
     start_path: cloud/
 ui:
   bundle:
