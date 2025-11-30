@@ -33,6 +33,8 @@ asciidoc:
     cl-subscription-agreement: https://www.thoughtspot.com/legal/thoughtspot-cloud-subscription-agreement[subscription agreement^]
   extensions:
   - '@asciidoctor/tabs'
+  - ./lib/accordion-block.js
+
 output:
   clean: true
   dir: build/
