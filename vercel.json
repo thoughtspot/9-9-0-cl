@@ -2,8 +2,8 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/cloud/10.13.0.cl",
-      "destination": "/cloud/10.13.0.cl/",
+      "source": "/cloud/26.3.1.cl",
+      "destination": "/cloud/26.3.1.cl/",
       "statusCode": 301 }
   ],
   "headers": [
