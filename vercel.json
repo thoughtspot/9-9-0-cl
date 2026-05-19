@@ -4,6 +4,22 @@
     {
       "source": "/cloud/26.6.0.cl",
       "destination": "/cloud/26.6.0.cl",
+      "statusCode": 301 },
+    {
+      "source": "/cloud",
+      "destination": "/cloud/26.6.0.cl/",
+      "statusCode": 301 },
+    {
+      "source": "/mobile",
+      "destination": "/mobile/4.6.0/",
+      "statusCode": 301 },
+    {
+      "source": "/software",
+      "destination": "/mobile/26.3.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/seekwell",
+      "destination": "/seekwell/current/",
       "statusCode": 301 }
   ],
   "headers": [
