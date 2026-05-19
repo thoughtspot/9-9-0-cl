@@ -8,11 +8,25 @@ site:
 #  html_extension_style: indexify
 content:
   sources:
-  # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
+  - url: .
+    branches: HEAD
+    start_path: home
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
     branches: ['26.6.0.cl']
     start_path: cloud/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    # Software docs branches
+    branches: [ '10.10.0.sw', '26.3.0.sw' ]
+    start_path: software/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    # Mobile docs branches
+    branches: [ '4.1.0.mb', '4.2.0.mb','4.6.0.mb' ]
+    start_path: mobile/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    # Seekwell docs branches
+    branches: [ 'seekwell' ]
+    start_path: seekwell/
 ui:
   bundle:
     # url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
