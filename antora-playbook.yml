@@ -1,6 +1,6 @@
 site:
   title: ThoughtSpot Documentation
-  url: https://10-13-0-cl-spotter.vercel.app
+  url: https://g-docs-staging.vercel.app
   start_page: cloud::index.adoc
   keys:
     google_analytics: UA-44946579-2
@@ -11,7 +11,7 @@ content:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['26.4.0.cl-wrn']
+    branches: ['26.6.0.cl']
     start_path: cloud/
 ui:
   bundle:
