@@ -25,22 +25,22 @@ ThoughtSpot Documentation</h1>
 ++++
 <div class="cards">
   <a class="card" href="https://docs.thoughtspot.com/cloud/latest/">
-    <img src="cloud.svg" alt="Cloud">
+    <img src="/cloud.svg" alt="Cloud">
     <h3>Cloud</h3>
   </a>
 
   <a class="card" href="https://docs.thoughtspot.com/software/latest/">
-    <img src="software.svg" alt="Software">
+    <img src="/software.svg" alt="Software">
     <h3>Software</h3>
   </a>
 
   <a class="card" href="https://developers.thoughtspot.com/docs">
-    <img src="developer.svg" alt="Embedded">
+    <img src="/developer.svg" alt="Embedded">
     <h3>Embedded</h3>
   </a>
 
   <a class="card" href="https://docs.thoughtspot.com/mobile/latest/">
-    <img src="mobile.svg" alt="Mobile">
+    <img src="/mobile.svg" alt="Mobile">
     <h3>Mobile</h3>
   </a>
 </div>
