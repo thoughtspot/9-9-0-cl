@@ -1,47 +1,74 @@
 = Welcome to ThoughtSpot Documentation
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
 :page-layout: home
+:page-pagination:
+:description: Home page for ThoughtSpot documentation
 
-++++
-<style> .card .mode {
-  width: 105px;
-  height: 35px;
-}
-</style>
-++++
-++++
-<div class="tt1-wrapper"><!-- Text section of header -->
-<div class="tt1-text-section">
-<h1 class="tt1-title">Welcome to <br>
-ThoughtSpot Documentation</h1>
-</div>
-</div>
-++++
+[.tt1-wrapper]
+--
+[.tt1-title]
+Welcome to +
+ThoughtSpot Documentation
+--
 
-++++
-<p class="tt1-sub-title">Choose your documentation:</p>
-++++
-[.conceal-title]
-== {empty}
-++++
-<div class="cards">
-  <a class="card" href="https://docs.thoughtspot.com/cloud/latest/">
-    <img src="_images/cloud.svg" alt="Cloud">
-    <h3>Cloud</h3>
-  </a>
+[.tt1-sub-title]
+Choose your documentation:
 
-  <a class="card" href="https://docs.thoughtspot.com/software/latest/">
-    <img src="_images/software.svg" alt="Software">
-    <h3>Software</h3>
-  </a>
+[.cards]
+--
+[.card.card-cloud]
+====
+image::{uiRootPath}/img/cloud.svg[Cloud,45,45]
 
-  <a class="card" href="https://developers.thoughtspot.com/docs">
-    <img src="_images/developer.svg" alt="Embedded">
-    <h3>Embedded</h3>
-  </a>
+Cloud
+====
 
-  <a class="card" href="https://docs.thoughtspot.com/mobile/latest/">
-    <img src="_images/mobile.svg" alt="Mobile">
-    <h3>Mobile</h3>
-  </a>
-</div>
-++++
+[.card.card-software]
+====
+image::{uiRootPath}/img/software.svg[Software,45,45]
+
+Software
+====
+
+[.card.card-mobile]
+====
+image::{uiRootPath}/img/mobile.svg[Mobile,45,45]
+
+Mobile
+====
+
+[.card.card-developer]
+====
+image::{uiRootPath}/img/developer.svg[Embedded,45,45]
+
+Embedded
+====
+--
+
+[.cards]
+--
+[.card.card-custom]
+
+====
+image::{uiRootPath}/img/myimage.svg[Alt text,45,45]
+
+link:https://example.com[My Card Title]
+
+[.card-body]
+A short description giving more detail about this card.
+====
+
+
+[.card.card-custom]
+====
+image::{uiRootPath}/img/another.svg[Alt text,45,45]
+
+link:https://another.com[Another Card]
+
+[.card-body]
+A short description giving more detail about this card.
+====
+--
