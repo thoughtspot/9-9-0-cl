@@ -7,6 +7,13 @@
 :page-pagination:
 :description: Home page for ThoughtSpot documentation
 
+[.tt1-wrapper]
+--
+[.tt1-title]
+Welcome to +
+ThoughtSpot Documentation
+--
+
 [.tt1-sub-title]
 Choose your documentation:
 
