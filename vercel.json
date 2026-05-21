@@ -32,7 +32,7 @@
     {
       "source": "/seekwell",
       "destination": "/seekwell/current/",
-      "statusCode": 301 },
+      "statusCode": 301 }
   ],
   "headers": [
     {
