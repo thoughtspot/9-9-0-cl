@@ -7,13 +7,6 @@
 :page-pagination:
 :description: Home page for ThoughtSpot documentation
 
-[.tt1-wrapper]
---
-[.tt1-title]
-Welcome to +
-ThoughtSpot Documentation
---
-
 [.tt1-sub-title]
 Choose your documentation:
 
@@ -21,28 +14,28 @@ Choose your documentation:
 --
 [.card.card-cloud]
 ====
-image::{uiRootPath}/img/cloud.svg[Cloud,45,45]
+image::cloud.svg[Cloud,45,45]
 
 Cloud
 ====
 
 [.card.card-software]
 ====
-image::{uiRootPath}/img/software.svg[Software,45,45]
+image::software.svg[Software,45,45]
 
 Software
 ====
 
 [.card.card-mobile]
 ====
-image::{uiRootPath}/img/mobile.svg[Mobile,45,45]
+image::mobile.svg[Mobile,45,45]
 
 Mobile
 ====
 
 [.card.card-developer]
 ====
-image::{uiRootPath}/img/developer.svg[Embedded,45,45]
+image::developer.svg[Embedded,45,45]
 
 Embedded
 ====
@@ -51,9 +44,8 @@ Embedded
 [.cards]
 --
 [.card.card-custom]
-
 ====
-image::{uiRootPath}/img/myimage.svg[Alt text,45,45]
+image::myimage.svg[Alt text,45,45]
 
 link:https://example.com[My Card Title]
 
@@ -61,10 +53,9 @@ link:https://example.com[My Card Title]
 A short description giving more detail about this card.
 ====
 
-
 [.card.card-custom]
 ====
-image::{uiRootPath}/img/another.svg[Alt text,45,45]
+image::another.svg[Alt text,45,45]
 
 link:https://another.com[Another Card]
 
