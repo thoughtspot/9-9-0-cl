@@ -30,6 +30,26 @@
       "destination": "/software/26.3.0.sw/",
       "statusCode": 301 },
     {
+      "source": "/software/26.3.0.sw",
+      "destination": "/software/26.3.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/10.10.0.sw",
+      "destination": "/software/10.10.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/mobile/4.1.0",
+      "destination": "/mobile/4.1.0/",
+      "statusCode": 301 },
+    {
+      "source": "/mobile/4.2.0",
+      "destination": "/mobile/4.2.0/",
+      "statusCode": 301 },
+    {
+      "source": "/mobile/4.6.0",
+      "destination": "/mobile/4.6.0/",
+      "statusCode": 301 },
+    {
       "source": "/seekwell",
       "destination": "/seekwell/current/",
       "statusCode": 301 }
