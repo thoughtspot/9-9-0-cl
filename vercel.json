@@ -1,7 +1,10 @@
 {
   "cleanUrls": true,
-  "trailingSlash": true,
   "redirects": [
+    {
+      "source": "/home",
+      "destination": "/home/",
+      "statusCode": 301 },
     {
       "source": "/cloud/26.6.0.cl",
       "destination": "/cloud/26.6.0.cl",
@@ -29,6 +32,14 @@
     {
       "source": "/software/latest",
       "destination": "/software/26.3.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/26.3.0.sw",
+      "destination": "/software/26.3.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/10.10.0.sw",
+      "destination": "/software/10.10.0.sw/",
       "statusCode": 301 },
     {
       "source": "/mobile/4.1.0",
