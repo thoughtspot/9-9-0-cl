@@ -27,7 +27,7 @@
       "statusCode": 301 },
     {
       "source": "/software/latest",
-      "destination": "/mobile/26.3.0.sw/",
+      "destination": "/software/26.3.0.sw/",
       "statusCode": 301 },
     {
       "source": "/seekwell",
