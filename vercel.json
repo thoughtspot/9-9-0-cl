@@ -6,6 +6,10 @@
       "destination": "/home/",
       "statusCode": 301 },
     {
+      "source": "/cloud/26.5.0.cl",
+      "destination": "/cloud/26.5.0.cl/",
+      "statusCode": 301 },
+    {
       "source": "/cloud/26.6.0.cl",
       "destination": "/cloud/26.6.0.cl/",
       "statusCode": 301 },
