@@ -44,7 +44,7 @@ asciidoc:
     tabs: tabs
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
     seekwell: SeekWell
-    A: ''
+    home-test: ''
     cl-subscription-agreement: https://www.thoughtspot.com/legal/thoughtspot-cloud-subscription-agreement[subscription agreement^]
   extensions:
   - '@asciidoctor/tabs'
