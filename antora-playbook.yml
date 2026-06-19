@@ -24,6 +24,10 @@ content:
     branches: [ '4.1.0.mb', '4.2.0.mb','4.6.0.mb' ]
     start_path: mobile/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    # AgentSpot branch
+    branches: [ '1.0.0.as']
+    start_path: agentspot/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Seekwell docs branches
     branches: [ 'seekwell' ]
     start_path: seekwell/
