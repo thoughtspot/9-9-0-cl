@@ -38,6 +38,10 @@
       "destination": "/software/26.3.0.sw/",
       "statusCode": 301 },
     {
+      "source": "/agentspot",
+      "destination": "/agentspot/",
+      "statusCode": 301 },
+    {
       "source": "/software/latest",
       "destination": "/software/26.3.0.sw/",
       "statusCode": 301 },
