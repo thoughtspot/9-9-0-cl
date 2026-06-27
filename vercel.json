@@ -54,6 +54,26 @@
       "destination": "/software/10.10.0.sw/",
       "statusCode": 301 },
     {
+      "source": "/software/10.1.0.sw",
+      "destination": "/software/10.1.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/9.8.0.sw",
+      "destination": "/software/9.8.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/9.5.0.sw",
+      "destination": "/software/9.5.0.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/9.0.1.sw",
+      "destination": "/software/9.0.1.sw/",
+      "statusCode": 301 },
+    {
+      "source": "/software/8.8.1.sw",
+      "destination": "/software/8.8.1.sw/",
+      "statusCode": 301 },
+    {
       "source": "/mobile/4.1.0",
       "destination": "/mobile/4.1.0/",
       "statusCode": 301 },
