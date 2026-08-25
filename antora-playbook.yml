@@ -13,11 +13,11 @@ content:
     start_path: home
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
   # Cloud docs branches
-    branches: ['26.3.1.cl', '26.6.0.cl', '26.7.0.cl']
+    branches: ['26.6.0.cl', '26.7.0.cl']
     start_path: cloud/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Software docs branches
-    branches: [ '9.5.0.sw', '9.8.0.sw', '10.1.0.sw', '10.10.0.sw', '26.3.0.sw' ]
+    branches: [ '26.3.0.sw' ]
     start_path: software/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Mobile docs branches
